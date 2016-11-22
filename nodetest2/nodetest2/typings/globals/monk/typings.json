@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/b4a6b1adbcb8fda098848a985931f4d5481484f5/monk/monk.d.ts",
+    "raw": "registry:dt/monk#1.0.1+20160121205919",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/b4a6b1adbcb8fda098848a985931f4d5481484f5/monk/monk.d.ts"
+  }
+}
